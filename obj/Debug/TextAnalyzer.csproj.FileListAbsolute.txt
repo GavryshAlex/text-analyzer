@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\CSharp\Lab04\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CSharp\Lab04\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSharp\Lab04\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\User\Desktop\CSharp\Lab04\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\User\Desktop\CSharp\Lab04\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\User\Desktop\CSharp\Lab04\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\User\Desktop\CSharp\Lab04\TextAnalyzer\obj\Debug\TextAnalyzer.pdb
