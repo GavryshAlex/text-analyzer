@@ -60,13 +60,13 @@ namespace TextAnalyzer
 			str = ReadLine();
 			str = GetLetters(str);
 			n = str.Length;
-			int countChars = n - str.Count(Char.IsWhiteSpace);
+			int countChars = n - str.Count(Char.IsWhiteSpace) - str.Split().Length; // length - number of spaces - number of words
 			double trustFactor = 1.0;
 			for (int i = 0; i < n - 1; i ++)
-				if (str[i] != ' ' && str[i+1] != ' ')
+				if (str[i] != ' ' && str[i+1] != ' ' && counts["" + str[i] + str[i + 1]] > 0)
 					trustFactor *= Math.Pow(counts["" + str[i] + str[i + 1]], 1.0/countChars);
 			WriteLine($"trustFactor = {trustFactor}");
-			if (trustFactor > 1200)
+			if (trustFactor > 3000)
 				WriteLine("Correct");
 			else
 				WriteLine("Nonsense");
