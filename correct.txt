@@ -1,0 +1,12 @@
+We use reinforcement learning to learn tree-structured neural networks for computing representations of natural language sentences
+In contrast with prior work on tree-structured models, in which the trees are either provided as input or predicted using supervision from explicit treebank annotations, the tree structures
+in this work are optimized to improve performance on a downstream task
+Languages encode meaning in terms of hierarchical
+To place this work in context, there are three predominant approaches for constructing vector representations of sentences from a sequence of words
+Our work can be understood as a compromise between the first two approaches
+Our model consists of two components
+Our sentence representation model follows
+Among the many users of machine learning systems are a new wave of computer scientists calling themselves "data miners"
+The Center will pioneer an emerging field that brings together statistics and the recent extensive advances in theoretically well-founded machine learning.
+The intelligent systems built on machine learning algorithms have the capability to learn from past experience or historical data
+Speech recognition is used in the applications like voice user interface, voice searches and more
